@@ -1,49 +1,1498 @@
 {
   "shai_hulud_compromised": [
-    { "package": "@ctrl/deluge", "versions": ["7.2.2", "7.2.1"] },
-    { "package": "@ctrl/golang-template", "versions": ["1.4.3", "1.4.2"] },
-    { "package": "@ctrl/magnet-link", "versions": ["4.0.4", "4.0.3"] },
-    { "package": "@ctrl/ngx-codemirror", "versions": ["7.0.2", "7.0.1"] },
-    { "package": "@ctrl/ngx-csv", "versions": ["6.0.2", "6.0.1"] },
-    { "package": "@ctrl/ngx-emoji-mart", "versions": ["9.2.2", "9.2.1"] },
-    { "package": "@ctrl/ngx-rightclick", "versions": ["4.0.2", "4.0.1"] },
-    { "package": "@ctrl/qbittorrent", "versions": ["9.7.2"] },
-    { "package": "@ctrl/react-adsense", "versions": ["2.0.2", "2.0.1"] },
-    { "package": "@ctrl/shared-torrent", "versions": ["6.3.2", "6.3.1"] },
-    { "package": "@ctrl/tinycolor", "versions": ["4.1.1", "4.1.2"] },
-    { "package": "@ctrl/torrent-file", "versions": ["4.1.2", "4.1.1"] },
-    { "package": "@ctrl/transmission", "versions": ["7.3.1"] },
-    { "package": "@ctrl/ts-base32", "versions": ["4.0.2", "4.0.1"] },
-    { "package": "@nativescript-community/gesturehandler", "versions": ["2.0.35"] },
-    { "package": "@nativescript-community/sentry", "versions": ["4.6.43"] },
-    { "package": "@nativescript-community/text", "versions": ["1.6.9", "1.6.10", "1.6.11", "1.6.12", "1.6.13"] },
-    { "package": "@nativescript-community/ui-collectionview", "versions": ["6.0.6"] },
-    { "package": "@nativescript-community/ui-drawer", "versions": ["0.1.30"] },
-    { "package": "@nativescript-community/ui-image", "versions": ["4.5.6"] },
-    { "package": "@nativescript-community/ui-material-bottomsheet", "versions": ["7.2.72"] },
-    { "package": "@nativescript-community/ui-material-core", "versions": ["7.2.72", "7.2.73", "7.2.74", "7.2.75", "7.2.76"] },
-    { "package": "@nativescript-community/ui-material-core-tabs", "versions": ["7.2.76"] },
-    { "package": "@teselagen/bio-parsers", "versions": ["0.4.29", "0.4.30"] },
-    { "package": "@teselagen/bounce-loader", "versions": ["0.3.16", "0.3.17"] },
-    { "package": "@teselagen/file-utils", "versions": ["0.3.21", "0.3.22"] },
-    { "package": "@teselagen/liquibase-tools", "versions": ["0.4.1"] },
-    { "package": "@teselagen/ove", "versions": ["0.7.39", "0.7.40"] },
-    { "package": "@teselagen/range-utils", "versions": ["0.3.14", "0.3.15"] },
-    { "package": "@teselagen/react-list", "versions": ["0.8.19", "0.8.20"] },
-    { "package": "angulartics2", "versions": ["14.1.2"] },
-    { "package": "ngx-color", "versions": ["10.0.2"] },
-    { "package": "ngx-toastr", "versions": ["19.0.2"] },
-    { "package": "ngx-trend", "versions": ["8.0.1"] },
-    { "package": "react-complaint-image", "versions": ["0.0.35"] },
-    { "package": "react-jsonschema-form-conditionals", "versions": ["0.3.21"] },
-    { "package": "react-jsonschema-form-extras", "versions": ["1.0.4"] },
-    { "package": "rxnt-authentication", "versions": ["0.0.6"] },
-    { "package": "rxnt-healthchecks-nestjs", "versions": ["1.0.5"] },
-    { "package": "rxnt-kue", "versions": ["1.0.7"] },
-    { "package": "swc-plugin-component-annotate", "versions": ["1.9.2"] },
-    { "package": "ts-gaussian", "versions": ["3.0.6"] },
-    { "package": "angulartics2", "versions": ["14.1.2"] },
-    { "package": "ngx-bootstrap", "versions": ["x.x.x"] },
-    { "package": "ng2-file-upload", "versions": ["x.x.x"] }
+    {
+      "package": "@ahmedhfarag/ngx-perfect-scrollbar",
+      "versions": [
+        "20.0.20"
+      ]
+    },
+    {
+      "package": "@ahmedhfarag/ngx-virtual-scroller",
+      "versions": [
+        "4.0.4"
+      ]
+    },
+    {
+      "package": "@art-ws/common",
+      "versions": [
+        "2.0.28"
+      ]
+    },
+    {
+      "package": "@art-ws/config-eslint",
+      "versions": [
+        "2.0.4",
+        "2.0.5"
+      ]
+    },
+    {
+      "package": "@art-ws/config-ts",
+      "versions": [
+        "2.0.7",
+        "2.0.8"
+      ]
+    },
+    {
+      "package": "@art-ws/db-context",
+      "versions": [
+        "2.0.24"
+      ]
+    },
+    {
+      "package": "@art-ws/di",
+      "versions": [
+        "2.0.28",
+        "2.0.32"
+      ]
+    },
+    {
+      "package": "@art-ws/di-node",
+      "versions": [
+        "2.0.13"
+      ]
+    },
+    {
+      "package": "@art-ws/eslint",
+      "versions": [
+        "1.0.5",
+        "1.0.6"
+      ]
+    },
+    {
+      "package": "@art-ws/fastify-http-server",
+      "versions": [
+        "2.0.24",
+        "2.0.27"
+      ]
+    },
+    {
+      "package": "@art-ws/http-server",
+      "versions": [
+        "2.0.21",
+        "2.0.25"
+      ]
+    },
+    {
+      "package": "@art-ws/openapi",
+      "versions": [
+        "0.1.12",
+        "0.1.9"
+      ]
+    },
+    {
+      "package": "@art-ws/package-base",
+      "versions": [
+        "1.0.5",
+        "1.0.6"
+      ]
+    },
+    {
+      "package": "@art-ws/prettier",
+      "versions": [
+        "1.0.5",
+        "1.0.6"
+      ]
+    },
+    {
+      "package": "@art-ws/slf",
+      "versions": [
+        "2.0.15",
+        "2.0.22"
+      ]
+    },
+    {
+      "package": "@art-ws/ssl-info",
+      "versions": [
+        "1.0.10",
+        "1.0.9"
+      ]
+    },
+    {
+      "package": "@art-ws/web-app",
+      "versions": [
+        "1.0.3",
+        "1.0.4"
+      ]
+    },
+    {
+      "package": "@basic-ui-components-stc/basic-ui-components",
+      "versions": [
+        "1.0.5"
+      ]
+    },
+    {
+      "package": "@crowdstrike/commitlint",
+      "versions": [
+        "8.1.1",
+        "8.1.2"
+      ]
+    },
+    {
+      "package": "@crowdstrike/falcon-shoelace",
+      "versions": [
+        "0.4.1",
+        "0.4.2"
+      ]
+    },
+    {
+      "package": "@crowdstrike/foundry-js",
+      "versions": [
+        "0.19.1",
+        "0.19.2"
+      ]
+    },
+    {
+      "package": "@crowdstrike/glide-core",
+      "versions": [
+        "0.34.2",
+        "0.34.3"
+      ]
+    },
+    {
+      "package": "@crowdstrike/logscale-dashboard",
+      "versions": [
+        "1.205.1",
+        "1.205.2"
+      ]
+    },
+    {
+      "package": "@crowdstrike/logscale-file-editor",
+      "versions": [
+        "1.205.1",
+        "1.205.2"
+      ]
+    },
+    {
+      "package": "@crowdstrike/logscale-parser-edit",
+      "versions": [
+        "1.205.1",
+        "1.205.2"
+      ]
+    },
+    {
+      "package": "@crowdstrike/logscale-search",
+      "versions": [
+        "1.205.1",
+        "1.205.2"
+      ]
+    },
+    {
+      "package": "@crowdstrike/tailwind-toucan-base",
+      "versions": [
+        "5.0.1",
+        "5.0.2"
+      ]
+    },
+    {
+      "package": "@ctrl/deluge",
+      "versions": [
+        "7.2.2",
+        "7.2.1"
+      ]
+    },
+    {
+      "package": "@ctrl/golang-template",
+      "versions": [
+        "1.4.3",
+        "1.4.2"
+      ]
+    },
+    {
+      "package": "@ctrl/magnet-link",
+      "versions": [
+        "4.0.4",
+        "4.0.3"
+      ]
+    },
+    {
+      "package": "@ctrl/ngx-codemirror",
+      "versions": [
+        "7.0.2",
+        "7.0.1"
+      ]
+    },
+    {
+      "package": "@ctrl/ngx-csv",
+      "versions": [
+        "6.0.2",
+        "6.0.1"
+      ]
+    },
+    {
+      "package": "@ctrl/ngx-emoji-mart",
+      "versions": [
+        "9.2.2",
+        "9.2.1"
+      ]
+    },
+    {
+      "package": "@ctrl/ngx-rightclick",
+      "versions": [
+        "4.0.2",
+        "4.0.1"
+      ]
+    },
+    {
+      "package": "@ctrl/qbittorrent",
+      "versions": [
+        "9.7.2",
+        "9.7.1"
+      ]
+    },
+    {
+      "package": "@ctrl/react-adsense",
+      "versions": [
+        "2.0.2",
+        "2.0.1"
+      ]
+    },
+    {
+      "package": "@ctrl/shared-torrent",
+      "versions": [
+        "6.3.2",
+        "6.3.1"
+      ]
+    },
+    {
+      "package": "@ctrl/tinycolor",
+      "versions": [
+        "4.1.1",
+        "4.1.2"
+      ]
+    },
+    {
+      "package": "@ctrl/torrent-file",
+      "versions": [
+        "4.1.2",
+        "4.1.1"
+      ]
+    },
+    {
+      "package": "@ctrl/transmission",
+      "versions": [
+        "7.3.1"
+      ]
+    },
+    {
+      "package": "@ctrl/ts-base32",
+      "versions": [
+        "4.0.2",
+        "4.0.1"
+      ]
+    },
+    {
+      "package": "@hestjs/core",
+      "versions": [
+        "0.2.1"
+      ]
+    },
+    {
+      "package": "@hestjs/cqrs",
+      "versions": [
+        "0.1.6"
+      ]
+    },
+    {
+      "package": "@hestjs/demo",
+      "versions": [
+        "0.1.2"
+      ]
+    },
+    {
+      "package": "@hestjs/eslint-config",
+      "versions": [
+        "0.1.2"
+      ]
+    },
+    {
+      "package": "@hestjs/logger",
+      "versions": [
+        "0.1.6"
+      ]
+    },
+    {
+      "package": "@hestjs/scalar",
+      "versions": [
+        "0.1.7"
+      ]
+    },
+    {
+      "package": "@hestjs/validation",
+      "versions": [
+        "0.1.6"
+      ]
+    },
+    {
+      "package": "@nativescript-community/arraybuffers",
+      "versions": [
+        "1.1.6",
+        "1.1.7",
+        "1.1.8"
+      ]
+    },
+    {
+      "package": "@nativescript-community/gesturehandler",
+      "versions": [
+        "2.0.35"
+      ]
+    },
+    {
+      "package": "@nativescript-community/perms",
+      "versions": [
+        "3.0.5",
+        "3.0.6",
+        "3.0.7",
+        "3.0.8",
+        "3.0.9"
+      ]
+    },
+    {
+      "package": "@nativescript-community/sentry",
+      "versions": [
+        "4.6.43"
+      ]
+    },
+    {
+      "package": "@nativescript-community/sqlite",
+      "versions": [
+        "3.5.2",
+        "3.5.3",
+        "3.5.4",
+        "3.5.5"
+      ]
+    },
+    {
+      "package": "@nativescript-community/text",
+      "versions": [
+        "1.6.13",
+        "1.6.10",
+        "1.6.11",
+        "1.6.12",
+        "1.6.9"
+      ]
+    },
+    {
+      "package": "@nativescript-community/typeorm",
+      "versions": [
+        "0.2.30",
+        "0.2.31",
+        "0.2.32",
+        "0.2.33"
+      ]
+    },
+    {
+      "package": "@nativescript-community/ui-collectionview",
+      "versions": [
+        "6.0.6"
+      ]
+    },
+    {
+      "package": "@nativescript-community/ui-document-picker",
+      "versions": [
+        "1.1.27",
+        "1.1.28",
+        "13.0.32"
+      ]
+    },
+    {
+      "package": "@nativescript-community/ui-drawer",
+      "versions": [
+        "0.1.30"
+      ]
+    },
+    {
+      "package": "@nativescript-community/ui-image",
+      "versions": [
+        "4.5.6"
+      ]
+    },
+    {
+      "package": "@nativescript-community/ui-label",
+      "versions": [
+        "1.3.35",
+        "1.3.36",
+        "1.3.37"
+      ]
+    },
+    {
+      "package": "@nativescript-community/ui-material-bottom-navigation",
+      "versions": [
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75"
+      ]
+    },
+    {
+      "package": "@nativescript-community/ui-material-bottomsheet",
+      "versions": [
+        "7.2.72"
+      ]
+    },
+    {
+      "package": "@nativescript-community/ui-material-core",
+      "versions": [
+        "7.2.76",
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75"
+      ]
+    },
+    {
+      "package": "@nativescript-community/ui-material-core-tabs",
+      "versions": [
+        "7.2.76",
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75"
+      ]
+    },
+    {
+      "package": "@nativescript-community/ui-material-ripple",
+      "versions": [
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75"
+      ]
+    },
+    {
+      "package": "@nativescript-community/ui-material-tabs",
+      "versions": [
+        "7.2.72",
+        "7.2.73",
+        "7.2.74",
+        "7.2.75"
+      ]
+    },
+    {
+      "package": "@nativescript-community/ui-pager",
+      "versions": [
+        "14.1.36",
+        "14.1.37",
+        "14.1.38"
+      ]
+    },
+    {
+      "package": "@nativescript-community/ui-pulltorefresh",
+      "versions": [
+        "2.5.4",
+        "2.5.5",
+        "2.5.6",
+        "2.5.7"
+      ]
+    },
+    {
+      "package": "@nexe/config-manager",
+      "versions": [
+        "0.1.1"
+      ]
+    },
+    {
+      "package": "@nexe/eslint-config",
+      "versions": [
+        "0.1.1"
+      ]
+    },
+    {
+      "package": "@nexe/logger",
+      "versions": [
+        "0.1.3"
+      ]
+    },
+    {
+      "package": "@nstudio/angular",
+      "versions": [
+        "20.0.4",
+        "20.0.5",
+        "20.0.6"
+      ]
+    },
+    {
+      "package": "@nstudio/focus",
+      "versions": [
+        "20.0.4",
+        "20.0.5",
+        "20.0.6"
+      ]
+    },
+    {
+      "package": "@nstudio/nativescript-checkbox",
+      "versions": [
+        "2.0.6",
+        "2.0.7",
+        "2.0.8",
+        "2.0.9"
+      ]
+    },
+    {
+      "package": "@nstudio/nativescript-loading-indicator",
+      "versions": [
+        "5.0.1",
+        "5.0.2",
+        "5.0.3",
+        "5.0.4"
+      ]
+    },
+    {
+      "package": "@nstudio/ui-collectionview",
+      "versions": [
+        "5.1.11",
+        "5.1.12",
+        "5.1.13",
+        "5.1.14"
+      ]
+    },
+    {
+      "package": "@nstudio/web",
+      "versions": [
+        "20.0.4"
+      ]
+    },
+    {
+      "package": "@nstudio/web-angular",
+      "versions": [
+        "20.0.4"
+      ]
+    },
+    {
+      "package": "@nstudio/xplat",
+      "versions": [
+        "20.0.5",
+        "20.0.6",
+        "20.0.7"
+      ]
+    },
+    {
+      "package": "@nstudio/xplat-utils",
+      "versions": [
+        "20.0.5",
+        "20.0.6",
+        "20.0.7"
+      ]
+    },
+    {
+      "package": "@operato/board",
+      "versions": [
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46"
+      ]
+    },
+    {
+      "package": "@operato/data-grist",
+      "versions": [
+        "9.0.29",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37"
+      ]
+    },
+    {
+      "package": "@operato/graphql",
+      "versions": [
+        "9.0.22",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46"
+      ]
+    },
+    {
+      "package": "@operato/headroom",
+      "versions": [
+        "9.0.2",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37"
+      ]
+    },
+    {
+      "package": "@operato/help",
+      "versions": [
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46"
+      ]
+    },
+    {
+      "package": "@operato/i18n",
+      "versions": [
+        "9.0.35",
+        "9.0.36",
+        "9.0.37"
+      ]
+    },
+    {
+      "package": "@operato/input",
+      "versions": [
+        "9.0.27",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48"
+      ]
+    },
+    {
+      "package": "@operato/layout",
+      "versions": [
+        "9.0.35",
+        "9.0.36",
+        "9.0.37"
+      ]
+    },
+    {
+      "package": "@operato/popup",
+      "versions": [
+        "9.0.22",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.49"
+      ]
+    },
+    {
+      "package": "@operato/pull-to-refresh",
+      "versions": [
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42"
+      ]
+    },
+    {
+      "package": "@operato/shell",
+      "versions": [
+        "9.0.22",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39"
+      ]
+    },
+    {
+      "package": "@operato/styles",
+      "versions": [
+        "9.0.2",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37"
+      ]
+    },
+    {
+      "package": "@operato/utils",
+      "versions": [
+        "9.0.22",
+        "9.0.35",
+        "9.0.36",
+        "9.0.37",
+        "9.0.38",
+        "9.0.39",
+        "9.0.40",
+        "9.0.41",
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.49"
+      ]
+    },
+    {
+      "package": "@teselagen/bio-parsers",
+      "versions": [
+        "0.4.29",
+        "0.4.30"
+      ]
+    },
+    {
+      "package": "@teselagen/bounce-loader",
+      "versions": [
+        "0.3.16",
+        "0.3.17"
+      ]
+    },
+    {
+      "package": "@teselagen/file-utils",
+      "versions": [
+        "0.3.21",
+        "0.3.22"
+      ]
+    },
+    {
+      "package": "@teselagen/liquibase-tools",
+      "versions": [
+        "0.4.1"
+      ]
+    },
+    {
+      "package": "@teselagen/ove",
+      "versions": [
+        "0.7.39",
+        "0.7.40"
+      ]
+    },
+    {
+      "package": "@teselagen/range-utils",
+      "versions": [
+        "0.3.14",
+        "0.3.15"
+      ]
+    },
+    {
+      "package": "@teselagen/react-list",
+      "versions": [
+        "0.8.19",
+        "0.8.20"
+      ]
+    },
+    {
+      "package": "@teselagen/react-table",
+      "versions": [
+        "6.10.21",
+        "6.10.19",
+        "6.10.20",
+        "6.10.22"
+      ]
+    },
+    {
+      "package": "@teselagen/sequence-utils",
+      "versions": [
+        "0.3.33",
+        "0.3.34"
+      ]
+    },
+    {
+      "package": "@teselagen/ui",
+      "versions": [
+        "0.9.9",
+        "0.9.10"
+      ]
+    },
+    {
+      "package": "@thangved/callback-window",
+      "versions": [
+        "1.1.4"
+      ]
+    },
+    {
+      "package": "@things-factory/attachment-base",
+      "versions": [
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51",
+        "9.0.52",
+        "9.0.53",
+        "9.0.54",
+        "9.0.55"
+      ]
+    },
+    {
+      "package": "@things-factory/auth-base",
+      "versions": [
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+      ]
+    },
+    {
+      "package": "@things-factory/email-base",
+      "versions": [
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45",
+        "9.0.46",
+        "9.0.47",
+        "9.0.48",
+        "9.0.49",
+        "9.0.50",
+        "9.0.51",
+        "9.0.52",
+        "9.0.53",
+        "9.0.54",
+        "9.0.55",
+        "9.0.56",
+        "9.0.57",
+        "9.0.58",
+        "9.0.59"
+      ]
+    },
+    {
+      "package": "@things-factory/env",
+      "versions": [
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+      ]
+    },
+    {
+      "package": "@things-factory/integration-base",
+      "versions": [
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+      ]
+    },
+    {
+      "package": "@things-factory/integration-marketplace",
+      "versions": [
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+      ]
+    },
+    {
+      "package": "@things-factory/shell",
+      "versions": [
+        "9.0.42",
+        "9.0.43",
+        "9.0.44",
+        "9.0.45"
+      ]
+    },
+    {
+      "package": "@tnf-dev/api",
+      "versions": [
+        "1.0.8"
+      ]
+    },
+    {
+      "package": "@tnf-dev/core",
+      "versions": [
+        "1.0.8"
+      ]
+    },
+    {
+      "package": "@tnf-dev/js",
+      "versions": [
+        "1.0.8"
+      ]
+    },
+    {
+      "package": "@tnf-dev/mui",
+      "versions": [
+        "1.0.8"
+      ]
+    },
+    {
+      "package": "@tnf-dev/react",
+      "versions": [
+        "1.0.8"
+      ]
+    },
+    {
+      "package": "@ui-ux-gang/devextreme-angular-rpk",
+      "versions": [
+        "24.1.7"
+      ]
+    },
+    {
+      "package": "@yoobic/design-system",
+      "versions": [
+        "6.5.17"
+      ]
+    },
+    {
+      "package": "@yoobic/jpeg-camera-es6",
+      "versions": [
+        "1.0.13"
+      ]
+    },
+    {
+      "package": "@yoobic/yobi",
+      "versions": [
+        "8.7.53"
+      ]
+    },
+    {
+      "package": "airchief",
+      "versions": [
+        "0.3.1"
+      ]
+    },
+    {
+      "package": "airpilot",
+      "versions": [
+        "0.8.8"
+      ]
+    },
+    {
+      "package": "angulartics2",
+      "versions": [
+        "14.1.2",
+        "14.1.1"
+      ]
+    },
+    {
+      "package": "browser-webdriver-downloader",
+      "versions": [
+        "3.0.8"
+      ]
+    },
+    {
+      "package": "capacitor-notificationhandler",
+      "versions": [
+        "0.0.2",
+        "0.0.3"
+      ]
+    },
+    {
+      "package": "capacitor-plugin-healthapp",
+      "versions": [
+        "0.0.2",
+        "0.0.3"
+      ]
+    },
+    {
+      "package": "capacitor-plugin-ihealth",
+      "versions": [
+        "1.1.8",
+        "1.1.9"
+      ]
+    },
+    {
+      "package": "capacitor-plugin-vonage",
+      "versions": [
+        "1.0.2",
+        "1.0.3"
+      ]
+    },
+    {
+      "package": "capacitorandroidpermissions",
+      "versions": [
+        "0.0.4",
+        "0.0.5"
+      ]
+    },
+    {
+      "package": "config-cordova",
+      "versions": [
+        "0.8.5"
+      ]
+    },
+    {
+      "package": "cordova-plugin-voxeet2",
+      "versions": [
+        "1.0.24"
+      ]
+    },
+    {
+      "package": "cordova-voxeet",
+      "versions": [
+        "1.0.32"
+      ]
+    },
+    {
+      "package": "create-hest-app",
+      "versions": [
+        "0.1.9"
+      ]
+    },
+    {
+      "package": "db-evo",
+      "versions": [
+        "1.1.4",
+        "1.1.5"
+      ]
+    },
+    {
+      "package": "devextreme-angular-rpk",
+      "versions": [
+        "21.2.8"
+      ]
+    },
+    {
+      "package": "devextreme-rpk",
+      "versions": [
+        "21.2.8"
+      ]
+    },
+    {
+      "package": "ember-browser-services",
+      "versions": [
+        "5.0.2",
+        "5.0.3"
+      ]
+    },
+    {
+      "package": "ember-headless-form",
+      "versions": [
+        "1.1.2",
+        "1.1.3"
+      ]
+    },
+    {
+      "package": "ember-headless-form-yup",
+      "versions": [
+        "1.0.1"
+      ]
+    },
+    {
+      "package": "ember-headless-table",
+      "versions": [
+        "2.1.5",
+        "2.1.6"
+      ]
+    },
+    {
+      "package": "ember-url-hash-polyfill",
+      "versions": [
+        "1.0.12",
+        "1.0.13"
+      ]
+    },
+    {
+      "package": "ember-velcro",
+      "versions": [
+        "2.2.1",
+        "2.2.2"
+      ]
+    },
+    {
+      "package": "encounter-playground",
+      "versions": [
+        "0.0.4",
+        "0.0.5",
+        "0.0.2",
+        "0.0.3"
+      ]
+    },
+    {
+      "package": "eslint-config-crowdstrike",
+      "versions": [
+        "11.0.2",
+        "11.0.3"
+      ]
+    },
+    {
+      "package": "eslint-config-crowdstrike-node",
+      "versions": [
+        "4.0.3",
+        "4.0.4"
+      ]
+    },
+    {
+      "package": "eslint-config-teselagen",
+      "versions": [
+        "6.1.7",
+        "6.1.8"
+      ]
+    },
+    {
+      "package": "globalize-rpk",
+      "versions": [
+        "1.7.4"
+      ]
+    },
+    {
+      "package": "graphql-sequelize-teselagen",
+      "versions": [
+        "5.3.8",
+        "5.3.9"
+      ]
+    },
+    {
+      "package": "html-to-base64-image",
+      "versions": [
+        "1.0.2"
+      ]
+    },
+    {
+      "package": "json-rules-engine-simplified",
+      "versions": [
+        "0.2.3",
+        "0.2.4",
+        "0.2.1"
+      ]
+    },
+    {
+      "package": "jumpgate",
+      "versions": [
+        "0.0.2"
+      ]
+    },
+    {
+      "package": "koa2-swagger-ui",
+      "versions": [
+        "5.11.2",
+        "5.11.1"
+      ]
+    },
+    {
+      "package": "mcfly-semantic-release",
+      "versions": [
+        "1.3.1"
+      ]
+    },
+    {
+      "package": "mcp-knowledge-base",
+      "versions": [
+        "0.0.2"
+      ]
+    },
+    {
+      "package": "mcp-knowledge-graph",
+      "versions": [
+        "1.2.1"
+      ]
+    },
+    {
+      "package": "mobioffice-cli",
+      "versions": [
+        "1.0.3"
+      ]
+    },
+    {
+      "package": "monorepo-next",
+      "versions": [
+        "13.0.1",
+        "13.0.2"
+      ]
+    },
+    {
+      "package": "mstate-angular",
+      "versions": [
+        "0.4.4"
+      ]
+    },
+    {
+      "package": "mstate-cli",
+      "versions": [
+        "0.4.7"
+      ]
+    },
+    {
+      "package": "mstate-dev-react",
+      "versions": [
+        "1.1.1"
+      ]
+    },
+    {
+      "package": "mstate-react",
+      "versions": [
+        "1.6.5"
+      ]
+    },
+    {
+      "package": "ng2-file-upload",
+      "versions": [
+        "8.0.3",
+        "7.0.2",
+        "7.0.3",
+        "8.0.1",
+        "8.0.2",
+        "9.0.1"
+      ]
+    },
+    {
+      "package": "ngx-bootstrap",
+      "versions": [
+        "18.1.4",
+        "19.0.3",
+        "20.0.4",
+        "20.0.5",
+        "20.0.6",
+        "19.0.4",
+        "20.0.3"
+      ]
+    },
+    {
+      "package": "ngx-color",
+      "versions": [
+        "10.0.2",
+        "10.0.1"
+      ]
+    },
+    {
+      "package": "ngx-toastr",
+      "versions": [
+        "19.0.2",
+        "19.0.1"
+      ]
+    },
+    {
+      "package": "ngx-trend",
+      "versions": [
+        "8.0.1"
+      ]
+    },
+    {
+      "package": "ngx-ws",
+      "versions": [
+        "1.1.5",
+        "1.1.6"
+      ]
+    },
+    {
+      "package": "oradm-to-gql",
+      "versions": [
+        "35.0.14",
+        "35.0.15"
+      ]
+    },
+    {
+      "package": "oradm-to-sqlz",
+      "versions": [
+        "1.1.4",
+        "1.1.2"
+      ]
+    },
+    {
+      "package": "ove-auto-annotate",
+      "versions": [
+        "0.0.9",
+        "0.0.10"
+      ]
+    },
+    {
+      "package": "pm2-gelf-json",
+      "versions": [
+        "1.0.4",
+        "1.0.5"
+      ]
+    },
+    {
+      "package": "printjs-rpk",
+      "versions": [
+        "1.6.1"
+      ]
+    },
+    {
+      "package": "react-complaint-image",
+      "versions": [
+        "0.0.34",
+        "0.0.35",
+        "0.0.32"
+      ]
+    },
+    {
+      "package": "react-jsonschema-form-conditionals",
+      "versions": [
+        "0.3.20",
+        "0.3.21",
+        "0.3.18"
+      ]
+    },
+    {
+      "package": "react-jsonschema-form-extras",
+      "versions": [
+        "1.0.3",
+        "1.0.4"
+      ]
+    },
+    {
+      "package": "react-jsonschema-rxnt-extras",
+      "versions": [
+        "0.4.8",
+        "0.4.9"
+      ]
+    },
+    {
+      "package": "remark-preset-lint-crowdstrike",
+      "versions": [
+        "4.0.1",
+        "4.0.2"
+      ]
+    },
+    {
+      "package": "rxnt-authentication",
+      "versions": [
+        "0.0.5",
+        "0.0.6",
+        "0.0.3",
+        "0.0.4"
+      ]
+    },
+    {
+      "package": "rxnt-healthchecks-nestjs",
+      "versions": [
+        "1.0.4",
+        "1.0.5",
+        "1.0.2",
+        "1.0.3"
+      ]
+    },
+    {
+      "package": "rxnt-kue",
+      "versions": [
+        "1.0.6",
+        "1.0.7",
+        "1.0.4",
+        "1.0.5"
+      ]
+    },
+    {
+      "package": "swc-plugin-component-annotate",
+      "versions": [
+        "1.9.2",
+        "1.9.1"
+      ]
+    },
+    {
+      "package": "tbssnch",
+      "versions": [
+        "1.0.2"
+      ]
+    },
+    {
+      "package": "teselagen-interval-tree",
+      "versions": [
+        "1.1.2"
+      ]
+    },
+    {
+      "package": "tg-client-query-builder",
+      "versions": [
+        "2.14.4",
+        "2.14.5"
+      ]
+    },
+    {
+      "package": "tg-redbird",
+      "versions": [
+        "1.3.1",
+        "1.3.2"
+      ]
+    },
+    {
+      "package": "tg-seq-gen",
+      "versions": [
+        "1.0.9",
+        "1.0.10"
+      ]
+    },
+    {
+      "package": "thangved-react-grid",
+      "versions": [
+        "1.0.3"
+      ]
+    },
+    {
+      "package": "ts-gaussian",
+      "versions": [
+        "3.0.6",
+        "3.0.5"
+      ]
+    },
+    {
+      "package": "ts-imports",
+      "versions": [
+        "1.0.1",
+        "1.0.2"
+      ]
+    },
+    {
+      "package": "tvi-cli",
+      "versions": [
+        "0.1.5"
+      ]
+    },
+    {
+      "package": "ve-bamreader",
+      "versions": [
+        "0.2.6",
+        "0.2.7"
+      ]
+    },
+    {
+      "package": "ve-editor",
+      "versions": [
+        "1.0.1",
+        "1.0.2"
+      ]
+    },
+    {
+      "package": "verror-extra",
+      "versions": [
+        "6.0.1"
+      ]
+    },
+    {
+      "package": "voip-callkit",
+      "versions": [
+        "1.0.2",
+        "1.0.3"
+      ]
+    },
+    {
+      "package": "wdio-web-reporter",
+      "versions": [
+        "0.1.3"
+      ]
+    },
+    {
+      "package": "yargs-help-output",
+      "versions": [
+        "5.0.3"
+      ]
+    },
+    {
+      "package": "yoo-styles",
+      "versions": [
+        "6.0.326"
+      ]
+    }
   ]
 }
